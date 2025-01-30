@@ -1,0 +1,21 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  font-family: georgia;
+  font-size: 26;
+  color: white;
+}
+
+h2 {
+  font-family: georgia;
+  font-size: 24px;
+  color: white;
+}
+
+h4 {
+  font-family: georgia;
+  font-size: 22px;
+  color: white;
+}
