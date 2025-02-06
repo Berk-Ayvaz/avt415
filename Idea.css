@@ -1,0 +1,30 @@
+body {
+background-image: linear-gradient(cyan, blue, black);
+height: 100%;
+margin: 0;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+h1 {
+  font-size: 64px;
+  text-indent: 50px;
+  font-family: nirmala text;
+}
+h2 {
+  font-size: 36px;
+  text-indent: 64px;
+  color: lightgrey;
+  font-family: nirmala text;
+}
+h3 {
+  font-size: 24px;
+  text-indent: 78px;
+  color: lightgrey;
+}
+a {
+  color: lightgrey;
+}
+a:hover {
+  color: grey;
+}
