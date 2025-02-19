@@ -1,0 +1,39 @@
+body {
+  background-color: whitesmoke;
+  font-size:115%;
+  line-height:1.6em;
+  color: black;
+  font-family: georgia, serif;
+}
+
+article {
+  margin: 15%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+h1 { 
+  font-weight: 400;
+  font-size: 2.8em;
+  line-height: 1.6em;
+  font-family: bitter;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-family: karla;
+  border-style: none none solid none;
+  padding-bottom: 2%;
+}
+
+h4 {
+  color: blue;
+  font-size: 1.2em;
+  font-family: karla;
+  margin-bottom: 1%;
+}
+
+dt {
+  font-size: 1.2em;
+  font-family: karla;
+}
