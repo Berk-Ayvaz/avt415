@@ -6,7 +6,7 @@
 html {font-size: 100%;} /*16px*/
 
 body {
-  background-image: url("https://github.com/Berk-Ayvaz/avt415/blob/gh-pages/BlueShade.jpg?raw=true");
+  background-image: url("https://raw.githubusercontent.com/Berk-Ayvaz/avt415/refs/heads/gh-pages/BlueShade.jpg");
   color: #181354;
   margin: 0;
   padding: 50px;
